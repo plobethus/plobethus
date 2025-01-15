@@ -1,5 +1,5 @@
 hello
-my name is Henry and I use this website for fun
+my name is Henry
 
 <!---
 plobethus/plobethus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
