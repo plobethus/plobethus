@@ -15,7 +15,6 @@ A full stack project created with html, css, javascript, and node js. Hosted on 
 -[front end](https://github.com/plobethus/ShipNGo-frontend)
 -[back end](https://github.com/plobethus/ShipNGo-backend)
 
-
 ## My GitHub stats
 
 <div class="badges-githubstats">
