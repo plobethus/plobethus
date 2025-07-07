@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-I am a senior computer science student at the univeristy of houston
+I am a senior computer science student at the univeristy of houston. Check out my ![website!](https://henrymoran.net)
 
 </div>
 
