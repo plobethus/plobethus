@@ -8,12 +8,6 @@ I am a senior computer science student at the univeristy of houston
 
 </div>
 
-## Featured Projects
-### Ship N Go website
-A full stack project created with html, css, javascript, and node js. Hosted on Vercel and Azure.
-- [website](https://shipngo-g9cpbhdvfhgca3cb.northcentralus-01.azurewebsites.net/)
-- [repository](https://github.com/plobethus/ShipNGo-backend)
-
 ## Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
